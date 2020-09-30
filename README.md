@@ -184,7 +184,7 @@ to explain why the statistician performed each step to a labmate/your principal 
 Contributors
 ====================
 
-* [Jeff Leek](http://biostat.jhsph.edu/~jleek/) - Wrote the initial version.
+* [Jeff Leek](http://biostat.jhsph.edu/~jleek/) - Wrote the initial version..
 * [L. Collado-Torres](http://bit.ly/LColladoTorres) - Fixed typos, added links.
 * [Nick Reich](http://people.umass.edu/nick/) - Added tips on storing data as text.
 * [Nick Horton](https://www.amherst.edu/people/facstaff/nhorton) - Minor wording suggestions.
